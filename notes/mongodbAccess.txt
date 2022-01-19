@@ -1,0 +1,1 @@
+DATABASE=mongodb+srv://SmokeHouse:dNbCvdLaXXkNBQWr@store.rko7t.mongodb.net/Store?retryWrites=true&w=majority
